@@ -1,0 +1,83 @@
+.navbar-brand {
+    background-image: url(images/logo.png);
+    color: white;
+    font-size: 20px;
+}
+
+.collapse navbar-collapse .first_nav {
+    display: inline-block;
+    color: black;
+    padding: 80px;
+}
+.navbar-nav2 .nav-item2{
+    font-size: 20px;
+    color: white;
+    display: inline-block;
+}
+
+a:link{
+    color: blue;
+}
+
+a:hover{
+    color: blue;
+}
+
+.first_list {
+    display: inline-block;
+}
+
+.nav-item .nav-link .phone_number {
+    color: red;
+    font-weight: 800;
+    font-size: 20px;
+}
+
+.nav-item .nav-link {
+    font-weight: 900;
+}
+
+.sidebar_heading {
+    background-color: rgb(55, 155, 236);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 800;
+    color: white;
+    font-size: 25px;
+}
+
+#sidebar_heading {
+    background-color: rgb(55, 155, 236);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 800;
+    color: white;
+    font-size: 25px;
+}
+
+li{
+    font-weight: bolder;
+}
+
+button {
+    color:white;
+    background-color: red;
+    border: 1px red;
+    border-radius: 10%;
+    font-weight: 800;
+    height: 35px;
+}
+
+h1 {
+    color: rgb(9, 128, 240);
+    font-size: 30px;
+    font-weight: 800px;
+    font-family:'Lobster', cursive;
+}
+h2 {
+    font-size: 28px;
+    color: rgb(17, 2, 2);
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+hr {
+    border: 2px;
+}
